@@ -1,2 +1,0 @@
-# Practicum
-student projects
